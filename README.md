@@ -1,6 +1,6 @@
 - I’m @Raul-VR
 - I’m interested in AI, cybersecurity
-- Currently learning CS
+- Currently learning CS @ ITESM
 - Twitter @raulAVR
 
 <!---
